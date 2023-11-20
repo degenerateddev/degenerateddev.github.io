@@ -1,6 +1,6 @@
 # degenerateddev.github.io
 
-Hello! I'm DegeneratedDev, a passionate software developer. I love to solve complex problems and build innovative solutions.
+Hello! I'm Tim Arnold, a passionate software developer. I love to solve complex problems and build innovative solutions.
 
 ## About Me
 

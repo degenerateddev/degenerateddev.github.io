@@ -11,7 +11,7 @@ Hello! I'm Tim Arnold, a passionate software developer. I love to solve complex 
 
 ## My Projects
 
-### Project 1
+### [https://abyssal.blog/](Abyssal Blog)
 A personal writing blog with an integrated admin management system, text editor, chapter management and much more.
 It's written in JavaScript and Python using SvelteKit and Django.
 
